@@ -3,6 +3,8 @@ In this competition, Santander invites Kagglers to help it identify which custom
 
 Kaggle link : <a src="https://www.kaggle.com/c/santander-customer-transaction-prediction/data">https://www.kaggle.com/c/santander-customer-transaction-prediction/data</a>
 
+<a src="https://www.kaggle.com/c/10385/download-all">Download Data</a>
+
 <img src="https://ichef.bbci.co.uk/news/660/cpsprodpb/144B7/production/_104872138_santander2.jpg" align="middle">
 
 ## COMPETITION AND DATA OVERVIEW:
